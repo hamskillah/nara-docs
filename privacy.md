@@ -42,7 +42,7 @@ Nara does not use cookies or tracking.
 Nara complies with Discord's 13+ age requirement.
 
 ## 11. INTERNATIONAL DATA TRANSFERS
-Data is stored in Singapore. By using the Bot, you consent to this transfer.
+Data is stored in Indonesia. By using the Bot, you consent to this transfer.
 
 ## 12. CHANGES TO THIS POLICY
 We may update this policy. Continued use constitutes acceptance.
